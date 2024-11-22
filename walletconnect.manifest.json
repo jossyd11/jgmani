@@ -1,0 +1,7 @@
+{
+    "url": "https://comfy-hotteok-3473ea.netlify.app",                        // required
+    "name": "Chasing Jiggy",                      // required
+    "iconUrl": "https://amber-above-tern-129.mypinata.cloud/ipfs/QmaebnkMHNkVn5Fu3KZXe7KeVjc1uYzLBE9f7sz8BbEnom",               // required
+    "termsOfUseUrl": "<terms-of-use-url>",     // optional
+    "privacyPolicyUrl": "<privacy-policy-url>" // optional
+}
